@@ -1,0 +1,120 @@
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.AssemblyReference.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI_MarkupCompile.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI_MarkupCompile.lref
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.exe
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.deps.json
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.runtimeconfig.json
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.pdb
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.g.resources
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.CopyComplete
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\refint\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.pdb
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\ref\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\AddStudentWindow.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.exe
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.deps.json
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.runtimeconfig.json
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\WPF_Student_UI.pdb
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.AssemblyReference.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\AddStudentWindow.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI_MarkupCompile.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI_MarkupCompile.lref
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\App.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\AddStudentWindow.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.g.resources
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.csproj.CopyComplete
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\refint\WPF_Student_UI.dll
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.pdb
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\WPF_Student_UI.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\GUI ORGANIZED\Assignment\New folder\WPF_Student_UI_4143\WPF_Student_UI\WPF_Student_UI\obj\Debug\net6.0-windows\ref\WPF_Student_UI.dll

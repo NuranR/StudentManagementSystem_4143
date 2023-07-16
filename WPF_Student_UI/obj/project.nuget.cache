@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NM5ZRLr3B3qB04ozt79z7fhA1E09qNOFuvqaPUDd2HyS2vjRMs3SDmZBRgb0R7xp517asUeZcTkzCyefnG756w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nuran\\source\\repos\\GUI ORGANIZED\\Assignment\\New folder\\WPF_Student_UI_4143\\WPF_Student_UI\\WPF_Student_UI\\WPF_Student_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nuran\\.nuget\\packages\\communitytoolkit.mvvm\\8.1.0\\communitytoolkit.mvvm.8.1.0.nupkg.sha512",
+    "C:\\Users\\Nuran\\.nuget\\packages\\mahapps.metro.iconpacks\\4.11.0\\mahapps.metro.iconpacks.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
